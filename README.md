@@ -1,5 +1,5 @@
 
-#Info: The weights I uploaded here is a sample weights for th model and need training.
+*Info: The weights I uploaded here is sample weights for the model and it requires training.*
 
 # squeeznet-nano
 SEM/TEM image shape classification using squeeznet
